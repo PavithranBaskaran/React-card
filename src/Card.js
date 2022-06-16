@@ -17,7 +17,7 @@ function Card(props){
               <li class={props.feature[7].class}><span class="fa-li"><i class="fas fa-times"></i></span>{props.feature[7].list}</li>
             </ul>
             <div class="d-grid">
-              <a href="#" class="btn btn-primary text-uppercase">Button</a>
+              <a href="/" class="btn btn-primary text-uppercase">Button</a>
             </div>
           </div>
         </div>
